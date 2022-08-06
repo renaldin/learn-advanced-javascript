@@ -1,0 +1,5 @@
+- Function yang beroperasi pada function lain, baik digunakan untuk argumen atau return value.
+
+- filter 
+- map 
+- reduce 

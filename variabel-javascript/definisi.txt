@@ -1,0 +1,28 @@
+Hositing(mengangkat) untuk variabel = dinaikan.
+
+********************************************^^
+// function expression
+let x = function () {
+
+};
+
+// Self Invoking Anonymouse Function / akan otomatis dijalankan
+(function () {
+
+}());
+
+***********************************************
+let menganut block scope 
+for(let i = 0; i < 10, i++){
+    console.log(i);
+}
+console.log(i) //error
+
+
+************************************************
+const = hanya sekali atau tidak akan berubah valuenya
+let = boleh berubah valuenya
+
+const untuk meminimalisir perubahan state 
+
+push untuk menambah value array

@@ -1,0 +1,23 @@
+[
+    {
+        "nama": "Renaldi",
+        "nim": "10107050",
+        "email": "renaldi@gmail.com",
+        "jurusan": "Sistem Informasi",
+        "idDosenWali": 1
+    },
+    {
+        "nama": "Andi",
+        "nim": "10107051",
+        "email": "andi@gmail.com",
+        "jurusan": "Sistem Informasi",
+        "idDosenWali": 2
+    },
+    {
+        "nama": "Rendi",
+        "nim": "10107052",
+        "email": "rendi@gmail.com",
+        "jurusan": "Teknik Industri",
+        "idDosenWali": 2
+    }
+]

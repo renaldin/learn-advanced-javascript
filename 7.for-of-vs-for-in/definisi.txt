@@ -1,0 +1,6 @@
+for of
+- sebuah looping yang bisa menulusuri atau mengulang objek iterable
+iterable (string, array, arguments, typedarray, map, set)
+
+for in
+- sebuah looping yang bisa menulusuri atau mengulang enumerable

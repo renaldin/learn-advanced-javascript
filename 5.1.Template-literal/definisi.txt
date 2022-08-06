@@ -1,0 +1,2 @@
+Template literal adalah string literal yang memungkinkan adanya sebuah expression di dalamnya.
+String literal = string biasa (''. "", ``)
